@@ -473,11 +473,11 @@ const VaadManagementSystem = () => {
                 <div className="space-y-4">
                   <div>
                     <label className="block text-sm font-semibold text-gray-700 mb-2">שם החברה</label>
-                    <input type="text" defaultValue="שכטר ועד בתים" className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500" />
+                    <input type="text" defaultValue=" ועד בתים" className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500" />
                   </div>
                   <div>
                     <label className="block text-sm font-semibold text-gray-700 mb-2">אימייל</label>
-                    <input type="email" defaultValue="info@schechter.co.il" className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500" />
+                    <input type="email" defaultValue="info@aa.co.il" className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500" />
                   </div>
                   <div>
                     <label className="block text-sm font-semibold text-gray-700 mb-2">טלפון</label>
@@ -575,7 +575,7 @@ const VaadManagementSystem = () => {
                 <Building className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gray-800">שכטר ועד בתים</h1>
+                <h1 className="text-xl font-bold text-gray-800"> ועד בתים</h1>
                 <p className="text-xs text-gray-500">מערכת ניהול מתקדמת</p>
               </div>
             </div>
@@ -588,7 +588,7 @@ const VaadManagementSystem = () => {
             <div className="flex items-center">
               <div className="text-left ml-3">
                 <p className="text-sm font-semibold text-gray-800">מנהל מערכת</p>
-                <p className="text-xs text-gray-500">admin@schechter.co.il</p>
+                <p className="text-xs text-gray-500">admin@aa.co.il</p>
               </div>
               <div className="w-10 h-10 bg-blue-600 rounded-full flex items-center justify-center text-white font-bold">
                 מ
